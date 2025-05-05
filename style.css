@@ -1,0 +1,10 @@
+body {
+    font-family: monospace;
+    margin: 20px;
+    padding: 0;
+}
+
+img {
+    height: 100px;
+    width: 100px;
+}
